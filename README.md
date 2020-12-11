@@ -45,8 +45,13 @@ Application demo - [Application Demo](https://drive.google.com/file/d/1Fep6iDPk7
 
 ### Demo The application as an Employee
 To use this app as an emoplyee, [login](http://www.taskflow.center/) with the following credentials: 
+Employee login
 Email: not1@gmail.com
 Password: 123456
+
+Manager login
+Email: test@gmail.com 
+password: 123456
 
 
 ## Technologies Used
