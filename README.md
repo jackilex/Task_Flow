@@ -7,6 +7,8 @@ TaskFlow is a project management application designed with the small company and
 
 TaskFlow allows employers or project managers to create and login to an account where they can create projects, scopes, tasks, and teams and assign team members to each project team. A project manger can edit a project, view its progress, and mark its tasks as complete. Team members can create an account, view the teams and scopes to which they have been assigned, and mark tasks complete.
 
+![Visual Preview of Flow](https://i.ibb.co/2ckjH22/Task-Flow.png)
+
 ## Table of Content
 
   - [Description](#description)
